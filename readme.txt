@@ -4,4 +4,5 @@ Add merge.
 <<<<<<< Updated upstream
 Git is a free software ...
 add another line.
-Add one two line.
+Add one line.
+add a line.
